@@ -1,0 +1,23 @@
+PROYECTO FINAL DE PYTHON - CONTROL DE GASTOS PERSONALES
+
+DOCENTE: Daysson Crissauris Bueno
+ESTUDIANTE: Jerangel Gabriel Bueno Gil
+INSTITUCIÓN: ITLA - Fundamentos de Programación
+
+1) DESCARGA Y DESCOMPRIME EL ZIP.
+2) Abre la carpeta donde está main.py.
+3) Instala la dependencia: py -m pip install -r requirements.txt
+4) Carga diez ejemplos: py datos_demo.py
+5) Ejecuta: py main.py
+6) Prueba: py -m unittest discover -s tests -v
+
+ENTREGA EN GITHUB:
+Abre GUIA_PARA_SUBIR_A_GITHUB.md para los pasos exactos.
+No subas el ZIP como único archivo: súbelo descomprimido.
+Tu matrícula completa está pendiente de añadir en la portada del informe.
+
+DOCUMENTOS:
+La carpeta documentacion/ contiene informe en PDF y DOCX,
+diagramas, capturas, pruebas y un guion de exposición.
+
+NOTA: el proyecto está listo para subir, PERO TODAVÍA NO SE HA PUBLICADO EN TU CUENTA DE GITHUB.
